@@ -11,10 +11,10 @@ A Chat app UI Flutter project.
 <img src="screenshots/discussion page.jpg" alt="Aperçu de l’application" width="300">
 
 #### Page d'appelle vocale :
-<img src="screenshots/AppeleVideo.jpg" alt="Aperçu de l’application" width="300">
+<img src="screenshots/appele vocal page.jpg" alt="Aperçu de l’application" width="300">
 
 #### Page d'appele video :
-<img src="screenshots/appele video page.jpg" alt="Aperçu de l’application" width="300">
+<img src="screenshots/AppeleVideo.jpg" alt="Aperçu de l’application" width="300">
 
 #### Page d'historique d'appelles :
 <img src="screenshots/historique appele page.jpg" alt="Aperçu de l’application" width="300">
