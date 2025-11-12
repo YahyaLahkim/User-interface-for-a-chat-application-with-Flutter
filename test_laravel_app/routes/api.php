@@ -21,7 +21,7 @@ Route::prefix('auth')
         
         Route::post('login',[AuthController::class,'login'])->name('login');
         Route::post('register',[AuthController::class,'register'])->name('register');
-        Route::post('login_with_token',[AuthController::class,'login_with_token'])
+        Route::post('login_with_token',[AuthController::class,'loginWithToken'])
             ->middleware('auth:sanctum')
             ->name('login_with_token');
         Route::get('logout',[AuthController::class,'logout'])
